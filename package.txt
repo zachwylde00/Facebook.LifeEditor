@@ -1,0 +1,36 @@
+package com.editorinterface.autocorrect.errors.all.myapp/Editor.java;
+
+public interface Editor {
+
+  public static void main(String[] args);
+
+
+}
+SUBJECT:AUTOCORRECT ANY/ALL (ERROR) LISTEDIN COMPILER is{}THIS PROJECT
+com.facebook.liechecker.myapplication;
+
+permission+activity:
+||android.apkeditor.applicationinterface.permission.ALLOW_EDIT/MODIFY/ADD/DELETE/INSERT/REMOVE/REPLACE_ANY/ALL_ERROR/MODIFIER/ARGUMENT/IDENTIFIER/TOKEN/CONSTRUCTOR_OR_INTERFACE;
+"</android.permission.apkeditorapplication.ALLOW_AUTOCORRECT_EDITING>/";
+"</android.permission.apkeditorapplication.ALLOW_ACCESS_EDITOR_FILES>/";
+"</android.permission.apkeditorapplication.ALLOW_ACCESS_EDITOR_CURSOR>/";
+"</android.permission.apkeditorapplication.ALLOW_ACCESS_EDITOR_KEYBOARD>/";
+"</android.permission.apkeditorapplication.AccessKeyboard/Cursor.activity.java>/";
+"</android.permission.apkeditorapplication.AutoCorrectError.activity.java>/";
+"</android.permission.apkeditorapplication.AccessEditor.activity.java>/";
+"</android.permission.apkeditorapplication.ACCESS_AS_INTERFACE>/";
+"</android.permission.apkeditor.AccessApplication.activity.java>/";
+("</android.permission.apkeditor.ACCESS/ADD/DELETE/INSERT/MODIFY/CONFIGURE/FILE/TEXT/ERROR/CONSTRUCTOR/ARGUMENT>/");
+"</android.permission.apkeditor.ACCESS_EDITOR_POINTER/CURSOR>/";
+"</android.permission.apkeditor.AccessApplication/AccessFile/Project/Folder.activity.java>/";
+"</android.permission.apkeditorapplication.Add/Modify/Configure/Correct/Rewrite/Complete/EditConstructer/Problem/Argument/Syntax/CompilerErrorFix/AutoUpdateFileWithTextInFileWhileEditing.activity.java>/";
+"</android.permission.apkeditorapplication.AccessFileWhileEditing/CompilingInApplication.activity.java>/";
+"</android.permission.apkeditorapplication.Insert/Delete/ModifyTokenToCorrectAny/AllWarning/Error/Problem/SyntaxError.activity.java>/";
+"</android.permission.apkeditor.automatedutil.Add/Delete/Modify/Configure/RewriteInCompilation/Format/Edit/CorrectErrorInFile.activity.java>/";
+"</android.permission.apkeditor.automatedutil.Update/CorrectPunctuation/CorrectSyntax/AddArguments/RepairArguments/AddCorrectFormattedText/FixErrorInFiles.activity.java>/";
+"</android.permission.UI.ObtainRoot/SuperUserAccessViaWifiConnection.activity.java>/";
+"</android.permission.UI.setting.ReconfigureSystemSettingsToAccessRoot/SuperUserAsRoot.activity.java>/";
+"</android.permission.UI.setting.phoneservices.AccessAnyAvaliableLTE/Wireless/CellConnectionAvailableToThisDeviceAsDeveloperRepairMobileConfigurationAccessServicesTemporaryConnection.activity.java>/";
+"</android.permission.uisystem.EnableRoot/SuperUserAccessSettings/Add/Modify/Delete/ConfigureSuperUserToObtainRoot/SuperUser.activity.java>/";
+"</android.uisetting.java.io.IOExceptionErrorPermissionEnableAny/AllPermission.activity.java>/";
+
