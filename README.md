@@ -52,7 +52,7 @@
 </head>
 
 <body class="wy-body-for-nav">
-
+<code>
    
   <div class="wy-grid-for-nav">
     
@@ -75,7 +75,7 @@
             
             
               <div class="version">
-                1.4.0
+                1.4.0</code>
               </div>
             
           
@@ -233,7 +233,7 @@
         </div>
         
       </div>
-    </nav>
+    </nav><div><code>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
 
@@ -249,7 +249,7 @@
       <div class="wy-nav-content">
         
         <div class="rst-content">
-        
+        </div></code>
           
 
 
@@ -389,7 +389,7 @@
            </div>
            
           </div>
-          <footer>
+          <footer><code>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
@@ -432,7 +432,7 @@
   <script type="text/javascript">
       jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
-      });
+      });</code>
   </script>
 
   
